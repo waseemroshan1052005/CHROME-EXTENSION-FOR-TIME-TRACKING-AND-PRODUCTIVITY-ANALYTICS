@@ -1,10 +1,8 @@
-# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
-
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: B HASINI
+*NAME*: Syed Waseem Roshan
 
-*INTERN ID*: CT06DH1201
+*INTERN ID*: CT06DH1678
 
 *DOMAIN*: Full Stack Web Development
 
@@ -12,6 +10,7 @@
 
 *MENTOR*:NEELA SANTOSH
 
+# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
 # A comprehensive Chrome extension prototype for tracking website usage time and providing detailed productivity analytics. This application helps users understand their browsing habits and improve their digital productivity. 
 
@@ -268,8 +267,6 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Made with ❤️ using React, TypeScript, and Tailwind CSS**
-
 ## OUTPUT:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bdc10b52-1769-415b-91fc-b839f6fe02c1" />
@@ -279,3 +276,5 @@ If you encounter any issues or have questions, please:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/efa43c00-400e-45e1-b912-82e1e082122e" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ca969094-3011-41b9-8514-e997298cfb3c" />
+
+**Made with ❤️ using React, TypeScript, and Tailwind CSS**
